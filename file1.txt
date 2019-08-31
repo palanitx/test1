@@ -3,5 +3,7 @@ line 2 - hf
 line 2 added by pd
 line 3 added by pd
 line 4 added by hf
+<<<<<<< HEAD
 line 4 added by pd
 line 5 added by pd on aug 31
+line 6 added by hf
