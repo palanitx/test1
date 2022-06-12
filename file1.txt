@@ -11,22 +11,11 @@ line 8 added by hf
 line 8 added by pd
 line 9 added by hf
 line 9 added by pd
-line 10 added by pd
-line 1
-line 2 - hf
-line 2 added by pd
-line 3 added by pd
-line 4 added by hf
-line 4 added by pd
-line 5 added by pd on aug 31
-line 6 added by hf
-line 7 added by hf
-line 8 added by hf
-line 8 added by pd
-line 9 added by hf
-line 9 added by pd
+<<<<<<< HEAD
 line 10 addded by hf
 line 11 added by hf
 
 line 22
 line 32 from cmd
+line 32 on 2022-06-12
+
